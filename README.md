@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/akaigyouhou/frontend-mentor-interactive-rating-component)
-- Live Site URL: [here](https://frontend-mentor-interactive-rating-component-two.vercel.app/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/using-react-with-pure-css-l7In9pl0Yd)
+- Live Site URL: [here](https://akaigyouhou.github.io/frontend-mentor-interactive-rating-component/)
 
 ## My process
 

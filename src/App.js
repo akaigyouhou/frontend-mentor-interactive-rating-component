@@ -1,5 +1,5 @@
 import './App.css';
-import Card from './Card';
+import Card from './components/Card';
 // import AD from './active-states.jpg';
 
 function App() {

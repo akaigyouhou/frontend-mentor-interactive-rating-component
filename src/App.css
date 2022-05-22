@@ -15,7 +15,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   font-size: 15px;
   font-family: Overpass;
   font-weight: 400;
